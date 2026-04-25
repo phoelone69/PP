@@ -1,0 +1,6 @@
+requests
+pyTelegramBotAPI
+cryptography
+asn1crypto==1.5.1
+pycryptodome
+PySocks
